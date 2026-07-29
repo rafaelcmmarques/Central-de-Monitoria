@@ -9,7 +9,6 @@ namespace Central_de_Monitoria.Classes
         private string turma;
         private string prontuario;
 
-        // Properties públicas[cite: 10, 12]
         public string Turma
         {
             get => turma;
