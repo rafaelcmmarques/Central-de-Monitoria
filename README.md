@@ -65,12 +65,12 @@ Certifique-se de ter o **.NET 10.0** (ou superior) instalado em seu ambiente.
 ### Passos no Terminal
 1. Clone este repositório do GitHub:
    ```bash
-   git clone https://github.com/rafaelcmmarques/central-de-monitoria.git
+   git clone https://github.com/rafaelcmmarques/Central-de-Monitoria.git
    ```
 
 2. Acesse a pasta do projeto:
    ```bash
-   cd central-de-monitoria
+   cd "Central-de-Monitoria/Central de Monitoria"
    ```
 
 3. Execute a aplicação via CLI do .NET:
