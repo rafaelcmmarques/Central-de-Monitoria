@@ -8,8 +8,6 @@ namespace Central_de_Monitoria.Classes
     {
         private string nome;
         private string email;
-
-        // Properties públicas que controlam o acesso[cite: 10, 14]
         public string Nome
         {
             get => nome;
